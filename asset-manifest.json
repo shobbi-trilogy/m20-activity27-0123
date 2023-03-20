@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/m20-activity27-0123/static/css/main.9691e1f7.css",
+    "main.js": "/m20-activity27-0123/static/js/main.4820bdb2.js",
+    "index.html": "/m20-activity27-0123/index.html",
+    "main.9691e1f7.css.map": "/m20-activity27-0123/static/css/main.9691e1f7.css.map",
+    "main.4820bdb2.js.map": "/m20-activity27-0123/static/js/main.4820bdb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9691e1f7.css",
+    "static/js/main.4820bdb2.js"
+  ]
+}
